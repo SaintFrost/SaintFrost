@@ -2,14 +2,14 @@
 
 I am a game developer passionate about **Game & Engine Development**. Currently, I am a **Digital Game Design student** studying at Istanbul Bilgi University.
 
-###  About Me
+### About Me
 -  I’m currently working on **Undawning: the New Moon**.
 -  I’m currently learning **Game Engine Architecture**.
 -  I’m looking to collaborate on **Game Projects using C++**.
 -  Ask me about **Game Development & Desing**.
 -  How to reach me: **sametakbaba1165@gmail.com**
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 **Languages:**
 `C++` `C#` `C` `GDScript` `Java`
