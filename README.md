@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Samet]! 
 
-<!--
-**SaintFrost/SaintFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a game developer passionate about **Game & Engine Development**. Currently, I am a **Digital Game Design student** studying at Istanbul Bilgi University.
 
-Here are some ideas to get you started:
+###  About Me
+-  I’m currently working on **[Undawning: the New Moon]**.
+-  I’m currently learning **[Game Engine Architecture]**.
+-  I’m looking to collaborate on **[Game Projects using C++]**.
+-  Ask me about **[Game Development & Desing]**.
+-  How to reach me: **[sametakbaba1165@gmail.com]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+**Languages:**
+`C++` `C#` `C` `GDScript` `Java`
+
+**Game Engines / Frameworks:**
+`Unity` `Unreal Engine` `Godot`
+
+**Tools:**
+`Git` `Visual Studio` `Rider` 
+
+---
+[LinkedIn Profile](https://www.linkedin.com/in/samet-akbaba) • [Portfolio](https://sametakbaba.my.canva.site/sametakbaba) • [Itch.io](https://sametakbaba.my.canva.site/sametakbaba) • [Youtube](https://www.youtube.com/@SametFrost)
