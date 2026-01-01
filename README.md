@@ -21,4 +21,4 @@ I am a game developer passionate about **Game & Engine Development**. Currently,
 `Git` `Visual Studio` `Rider` 
 
 ---
-[LinkedIn Profile](https://www.linkedin.com/in/samet-akbaba) • [Portfolio](https://sametakbaba.my.canva.site/sametakbaba) • [Itch.io](https://sametakbaba.my.canva.site/sametakbaba) • [Youtube](https://www.youtube.com/@SametFrost)
+[LinkedIn Profile](https://www.linkedin.com/in/samet-akbaba) • [Portfolio](https://sametakbaba.my.canva.site/sametakbaba) • [Itch.io](https://saintfrost.itch.io) • [Youtube](https://www.youtube.com/@SametFrost)
