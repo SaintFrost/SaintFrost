@@ -6,7 +6,7 @@ I am a game developer passionate about **Game & Engine Development**. Currently,
 -  I’m currently working on **Undawning: the New Moon**.
 -  I’m currently learning **Game Engine Architecture**.
 -  I’m looking to collaborate on **Game Projects using C++**.
--  Ask me about **Game Development & Desing**.
+-  Ask me about **Game Development & Design**.
 -  How to reach me: **sametakbaba1165@gmail.com**
 
 ### Skills & Tools
